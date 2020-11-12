@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/IAProyect/Scenes/MainMenu.unity
+    guid: 5ba40dc6587bade4cb78b65f58c3c550
+  - enabled: 1
+    path: Assets/IAProyect/Scenes/FPS-IA.unity
+    guid: c5c97b788e122a643805d8b4c57d6eab
+  - enabled: 1
+    path: Assets/IAProyect/Scenes/FPS-IA 1.unity
+    guid: 94892f4a1dc2faf4d920df7fe6f7841f
+  - enabled: 1
+    path: Assets/IAProyect/Scenes/FPS-IA 2.unity
+    guid: 52a0def6b258a5247b9f10dfcf5d77be
+  - enabled: 1
+    path: Assets/IAProyect/Scenes/FPS-IA 3.unity
+    guid: 48ae5717b1744ad46bc8a054c7320502
+  m_configObjects: {}
